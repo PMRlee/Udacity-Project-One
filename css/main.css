@@ -11,9 +11,9 @@
 *{
     font-family: 'Lato', sans-serif;
 }
-h1 {color: #505B94; text-align: right; margin-bottom: 2px;margin-top: 2px; font-size: 60px}
-h4 {color: #505B94; text-align: right; margin-bottom: 2px;margin-top: 2px}
-h2 {color: #505B94; text-align: left; font-size: 40px}
+h1 {color: #505B94; text-align: right; margin-bottom: 2px;margin-top: 2px; font-size: 4vw}
+h4 {color: #505B94; text-align: right; margin-bottom: 2px;margin-top: 2px font-size= 1vw}
+h2 {color: #505B94; text-align: left; font-size: 2.5vw}
 hr {color: #0000FF; margin-top: 1.5em;}
 .grid {
     margin: 0 auto;
