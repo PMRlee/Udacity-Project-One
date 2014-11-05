@@ -20,7 +20,6 @@ hr {color: #0000FF; margin-top: 1.5em;}
 .imgfull{
     max-width: 100%;
     height: auto;
-    /*max-height: 100%;    */
 }
 
 .logo{
@@ -30,7 +29,6 @@ hr {color: #0000FF; margin-top: 1.5em;}
 
 .imgthird{
     max-width: 33%;
-    /*max-height: 200px;*/
     height: auto;
     display: flex;    
 } 
